@@ -1,0 +1,14 @@
+# MacOS specific files
+.DS_Store
+
+# IDE specfic files
+.idea/*
+
+# Compiled python files
+*.pyc
+
+# Configuration files
+confs/*.yaml
+confs/*.yml
+package/
+function.zip
